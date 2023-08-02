@@ -22,7 +22,11 @@ const NavigationBar = () => {
         <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="/search">Search Hospital</a>
         </li>
-       
+
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="/delete">delete Hospital</a>
+        </li>
+
         
         
       </ul>
